@@ -6,4 +6,4 @@
 ### Whenever a user visits the site they are able to scrape and get title, summary and a link to that news, as well by clicking on any news they can leave a comment on the news and save it on a different page.
 ### As well I have created a delete button that user is able to delete their comment along with the news from the screen and mongodb as well.
 
-### You can visit the complete web app [Here!](https://www.google.ca/)
+### You can visit the complete web app [Here!](https://gentle-fjord-93584.herokuapp.com/)
